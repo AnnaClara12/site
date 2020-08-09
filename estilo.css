@@ -1,0 +1,70 @@
+html, body {  margin: 0; }
+
+#imagem_fundo { background: url(fundo.jpg);
+                height: 100%;
+                text-align: center;
+                background-size: cover; }
+
+#titulo { font-family:  'Merriweather Sans', sans-serif;
+          color:white;
+          padding-top: 20%;
+          font-size: 65px; }
+              
+#subtitulo { color:white;
+             padding-right: 20%;
+             padding-left: 20%;
+             font-size: 30px; }
+        
+.icone { width: 70px; }
+
+.imgeco { width: 40%;
+        height: 40%;
+        padding-left: 90px; }
+
+section { padding: 20px;
+        float: left; }
+
+.destaque { background-color:#87eb8f;	  }
+
+.justificado { text-align: justify; }
+
+.centralizado {  text-align: center; }
+
+.coluna { float: left;
+        padding: 0 5%;
+        position: relative;
+        width: 40%; }
+
+.dois { width: 40%; }
+
+.quatro {  width: 15%;
+         float: left;
+         padding: 0 5%;
+         position: relative; 
+        padding-left: 5%;}
+
+.tres { width: 29%; 
+      padding: 0 2%;
+      position: relative;
+      float: left; }
+
+footer { background-color:#87eb8f	 ;
+        float: left;
+        width: 100%;
+        height: 30%;
+        color:black; }
+
+#logodiv { width: 100%;
+           position: relative;
+           text-align: center;
+           padding: 0px;}
+     
+#logo { margin-left: 0px;
+        transform: translateX(-50%); }
+
+#titu { font-size: 30px; }
+                                                        
+     
+
+
+              
